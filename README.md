@@ -2,6 +2,10 @@
 
 A powerful and modern command-line currency converter tool that supports real-time exchange rates for 40+ currencies. Available in both Python and NodeJS implementations.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Node.js Version](https://img.shields.io/badge/node.js-14+-green.svg)](https://nodejs.org/en/download/)
+
 ## ✨ Features
 
 - 🔄 Real-time currency exchange rates using exchangerate-api.com
@@ -43,7 +47,7 @@ A powerful and modern command-line currency converter tool that supports real-ti
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/lyssadev/currency-converter.git
 cd currency-converter
 ```
 
@@ -174,7 +178,7 @@ Use the `list` command to see all supported currencies.
 
 Contributions are welcome! Here's how you can help:
 
-1. Fork the repository
+1. Fork the repository from [lyssadev/currency-converter](https://github.com/lyssadev/currency-converter)
 2. Create a new branch (`git checkout -b feature/improvement`)
 3. Make your changes
 4. Commit your changes (`git commit -am 'Add new feature'`)
@@ -210,5 +214,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions, please:
 1. Check the troubleshooting section
-2. Open an issue on GitHub
+2. Open an issue on [GitHub](https://github.com/lyssadev/currency-converter/issues)
 3. Submit a pull request with your fix
+
+## 🙏 Credits
+
+- Exchange rates provided by [exchangerate-api.com](https://www.exchangerate-api.com/)
+- Built with ❤️ by [lyssadev](https://github.com/lyssadev)
