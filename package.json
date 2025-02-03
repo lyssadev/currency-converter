@@ -1,0 +1,25 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "A modern command-line currency converter tool",
+  "main": "currency-converter.js",
+  "scripts": {
+    "start": "node currency-converter.js"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "cli",
+    "exchange-rates"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "ora": "^5.4.1",
+    "table": "^6.8.1"
+  }
+} 
